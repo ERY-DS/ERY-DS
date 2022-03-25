@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ERY-DS
+- 👋 Hi, I’m Esther
 - 👀 I’m interested in Data
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on anything educative and related to Data Science
